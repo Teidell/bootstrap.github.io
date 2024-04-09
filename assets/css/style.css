@@ -1,0 +1,47 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+.img{
+    width: 160px;
+}
+
+nav{
+    background-color:#28A745;
+    
+}
+.text{
+    color: #28A745;
+}
+.pgris{
+    color: gray;
+}
+.roboto-light{
+    font-family: "roboto",sans-serif;
+    font-weight: 300;
+    font-style: normal;  
+}
+
+
+
+legend{
+    color: white;
+}
+.fondo{
+    background-color: #28A745;
+}
+
+.btm-custom{
+    background-color: white;
+    color: black;
+}
+ 
+ .footer {
+    
+    display: inline-flex;
+        justify-content: center;
+               
+ }
+ .img2{
+width: 160px;
+height: 50px;    
+ }
